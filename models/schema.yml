@@ -2,7 +2,7 @@ version: 2
 
 models:
   - name: customers
-    description: One line description
+    description: One line description test branch
     columns:
       - name: customer_id
         description: Primary key
